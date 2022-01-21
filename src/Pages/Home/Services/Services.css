@@ -7,8 +7,6 @@
     line-height: 43px;
     letter-spacing: 0.3959999978542328px;
     text-align: center;
-
-
 }
 .section-title1{
     color: #F63E7B;
@@ -52,4 +50,13 @@
     text-align: center;
     letter-spacing: 0.396px;
     color: rgba(0, 0, 0, 0.7);
+}
+
+.explore-btn{
+    height: 45px;
+    width: 165px;
+    border-radius: 5px;
+    background: #F63E7B;
+    border: 0;
+    color: white;
 }

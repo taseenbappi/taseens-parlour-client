@@ -9,7 +9,7 @@ const Services = () => {
     return (
         <div className='container-fluid py-5'>
             <h1 className='section-title pb-5'>Our Awesome <span className='section-title1'>Services</span></h1>
-            <div className="row row-cols-1 row-cols-md-3 g-4 container mx-auto">
+            <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 container mx-auto pb-3">
                 <div className="col">
                     <div className="card h-100 border-0 service-card">
                         <img src="https://i.ibb.co/Nrv44W0/anti-age-face.png" className="img-fluid m-auto mt-2 service-img" alt="..." height="72" width="72" />
@@ -42,6 +42,8 @@ const Services = () => {
                 </div>
 
             </div>
+
+            <button className='explore-btn '>Explore more</button>
         </div>
     );
 };
