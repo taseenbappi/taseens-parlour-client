@@ -1,0 +1,32 @@
+.navigation-bg{
+    background-color: #FFF8F5;
+
+}
+.brand-title{
+   color:  rgba(0, 0, 0, 0.85);
+   font-family: 'Poppins', sans-serif;
+   font-size: 1.4rem;
+   font-weight: 700;
+   padding: 10px;
+}
+
+.all-menu a{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 9px;
+    letter-spacing: 0.3959999978542328px;
+    color: #474747;
+      
+
+}
+.login-btn{
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+    background: #F63E7B;
+    border: 0;
+    color: white;
+
+}
